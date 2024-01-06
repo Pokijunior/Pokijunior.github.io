@@ -87,7 +87,7 @@ p {
         padding: 50px 0;
     }
 
-    p {
+    .car-name {
         font-size: 25px;
     }
 }
